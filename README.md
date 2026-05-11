@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<h3>Tecnologias que utilizo</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,js,react,cs,unity,ts,html,css,vscode,mysql,php" />
+  </a>
+</p>
+
 <!--
 **MudisDev/MudisDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
